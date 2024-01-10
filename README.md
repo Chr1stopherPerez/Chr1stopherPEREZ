@@ -1,3 +1,5 @@
+<img align="right" src="https://24.media.tumblr.com/95d2ea2043082f75139d6cb9f1c65d5b/tumblr_mogjneynT21r2rtcno1_400.gif">
+
 <h1 align="center">Hi 👋, I'm Chr1stopher PEREZ</h1>
 <h3 align="center">A fabulous developper from France</h3>
 
