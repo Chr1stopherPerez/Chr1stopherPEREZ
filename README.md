@@ -5,8 +5,10 @@
 
 - 🔭 I’m currently working on **Online Library** Project in HTML/CSS/JS/PHP/MySQL
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/chr1stperez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chr1stperez" height="30" width="40" /></a>
+<a href="https://discord.gg/Chr1stopher PEREZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Chr1stopher PEREZ" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
