@@ -1,4 +1,7 @@
-<img align="right" src="https://64.media.tumblr.com/e74caa35f8e76dc32e9170302b43597e/47e520eb5d3cf2db-b5/s540x810/fb10dacf674cb5726091371aa755bee47d7124b0.gif">
+<div align="center">
+  <img src="https://64.media.tumblr.com/e74caa35f8e76dc32e9170302b43597e/47e520eb5d3cf2db-b5/s540x810/fb10dacf674cb5726091371aa755bee47d7124b0.gif">
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Chr1stopher PEREZ</h1>
 <h3 align="center">A fabulous developper from Earth, Europe, France, My Shoes</h3>
@@ -17,3 +20,8 @@
 
 <h3 align="center">My Universe:</h3>
 
+ <div style="margin: 0 auto; width: max-content;">
+    <a href="https://ibb.co/DWSxq8P">
+      <img src="https://i.ibb.co/c37GmCK/Acronyme.png" alt="Acronyme" border="0">
+    </a>
+  </div>
