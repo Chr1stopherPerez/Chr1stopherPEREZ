@@ -15,14 +15,23 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
+
 <p align="center">
-    <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,gcp,html,ps,php,vscode,wordpress" />
-      <div align="center" style="display: flex;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 50px;" /></div><div align="center" style="display: flex;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 50px;" /></div><div align="center" style="display: flex;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 0px;" /></div>
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,gcp,html,ps,php,vscode,wordpress" style="display: flex; justify-content: center; align-items: center;"/>
   </a>
-</p> </a>
 </p>
+
+<p align="center">
+  <a href="https://techstack-generator.vercel.app">
+    <div align="center" style="display: flex; justify-content: center;">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 20px; margin-bottom: 50px;" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 20px; margin-bottom: 50px;" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 50px;" />
+    </div>
+  </a>
+</p>
+
 
 <h3 align="center">My Universe:</h3>
 
@@ -32,6 +41,7 @@
     </a>
 </div>
 
-<p align="center">
-    <sub>*All rights are reserved to different artists & contributors: Arthurtng/Empyrea/Nøir Nøir/Shulk/Laoyepo/Nipuni - Jenna Coleman/Valentina Zenere/Dylan O'Brien/Pedro Pascal/Alex Kingston & thank you to Florent Baccard for guiding me on using GitHub*</sub>
-</p>
+<details>
+  <summary align="center">Credits</summary><p align="center">
+    <sub>*All rights are reserved to different artists & contributors: Arthurtng/Empyrea/Nøir Nøir/Shulk/Laoyepo/Nipuni - Jenna Coleman/Valentina Zenere/Dylan O'Brien/Pedro Pascal/Alex Kingston & Thank you to Florent Baccard for guiding me on using GitHub*</sub>
+</p></details>
