@@ -43,5 +43,5 @@
 
 <details>
   <summary align="center">Credits</summary><p align="center">
-    <sub>*All rights are reserved to different artists & contributors: Arthurtng/Empyrea/Nøir Nøir/Shulk/Laoyepo/Nipuni - Jenna Coleman/Valentina Zenere/Dylan O'Brien/Pedro Pascal/Alex Kingston & Thank you to Florent Baccard for guiding me on using GitHub*</sub>
+    <sub>*All rights are reserved to different artists & contributors: Arthurtng/Empyrea/Nøir Nøir/Shulk/Laoyepo/Nipuni - Jenna Coleman/Valentina Zenere/Dylan O'Brien/Pedro Pascal/Alex Kingston & Thank you to <b>FLORENT BACCARD</b> for guiding me on using GitHub*</sub>
 </p></details>
