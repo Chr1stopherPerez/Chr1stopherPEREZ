@@ -17,7 +17,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,gcp,html,ps,php,vscode,wordpress" style="display: flex; justify-content: center; align-items: center;"/>
   </a>
 </p>
