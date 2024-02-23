@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,gcp,html,ps,php,vscode,wordpress" style="display: flex; justify-content: center; align-items: center;"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,html,jquery,ps,php,sass,vscode,wordpress" style="display: flex; justify-content: center; align-items: center;"/>
   </a>
 </p>
 
