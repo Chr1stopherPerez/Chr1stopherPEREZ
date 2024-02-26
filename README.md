@@ -5,20 +5,19 @@
 <h1 align="center">Hi :video_game:, I'm Christopher PEREZ</h1>
 <h3 align="center">A fabulous developer from Earth, Europe, France, My Shoes</h3>
 
-<h4 align="center">:computer: I’m currently working on **Barber** Project in HTML/CSS/JS</h4>
+<h4 align="center">:computer: I’m currently working on **DOOM** Project in HTML/CSS/JS/PHP/MYSQL</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://twitter.com/chr1stperez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chr1stperez" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/christopher-perez-8a6b3a272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chr1stperez" height="30" width="40" /></a>
     <a href="https://discord.gg/Chr1stopher PEREZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Chr1stopher PEREZ" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/channel/UCZiWMgematficKgqTuqJQ1w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@chr1stperez" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,html,jquery,ps,php,sass,vscode,wordpress" style="display: flex; justify-content: center; align-items: center;"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,html,ps,php,sass,vscode,wordpress" style="display: flex; justify-content: center; align-items: center;"/>
   </a>
 </p>
 
