@@ -43,4 +43,7 @@
 <details>
   <summary align="center">Credits</summary><p align="center">
     <sub>*All rights are reserved to different artists & contributors: Arthurtng/Empyrea/Nøir Nøir/Shulk/Laoyepo/Nipuni - Jenna Coleman/Valentina Zenere/Dylan O'Brien/Pedro Pascal/Alex Kingston & Thank you to <b>FLORENT BACCARD</b> for guiding me on using GitHub*</sub>
+</p>
+<p align="center">
+<a href="https://visitorbadge.io/status?path=git%40github.com%3AChr1stopherPerez%2FChr1stopherPEREZ.git"><img src="https://api.visitorbadge.io/api/visitors?path=git%40github.com%3AChr1stopherPerez%2FChr1stopherPEREZ.git&label=Curieux&labelColor=%232ccce4&countColor=%23555555&style=flat" /></a>
 </p></details>
