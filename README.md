@@ -5,7 +5,7 @@
 <h1 align="center">Hi :video_game:, I'm Christopher PEREZ</h1>
 <h3 align="center">A fabulous developer from Earth, Europe, France, My Shoes</h3>
 
-<h4 align="center">:computer: I’m currently working on **DOOM** Project in HTML/CSS/JS/PHP/MYSQL</h4>
+<h4 align="center">:computer: I’m currently working on **Rivality** Project in HTML/CSS/JS</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
