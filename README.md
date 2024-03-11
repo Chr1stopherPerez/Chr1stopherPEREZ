@@ -9,8 +9,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/christopher-perez-8a6b3a272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin of Christopher PEREZ" height="30" width="40" /></a>
-    <a href="mailto:christopher11perez@hotmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="christopher11perez@hotmail.com" height="30" width="40" /></a
+    <a href="https://www.linkedin.com/in/christopher-perez-8a6b3a272/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin of Christopher PEREZ" height="30" width="40" /></a>
+    <a href="mailto:christopher11perez@hotmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="christopher11perez@hotmail.com" height="30" width="40" /></a
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
