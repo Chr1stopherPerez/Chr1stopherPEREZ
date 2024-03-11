@@ -17,16 +17,17 @@
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,html,ps,php,sass,vscode,wordpress" style="display: flex; justify-content: center; align-items: center;"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,codepen,css,discord,figma,gmail,html,instagram,ps,php,sublime,twitter,vscode,windows,wordpress" style="display: flex; justify-content: center; align-items: center;"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://techstack-generator.vercel.app">
     <div align="center" style="display: flex; justify-content: center;">
+              <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 20px; margin-bottom: 50px;" />
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 20px; margin-bottom: 50px;" />
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 20px; margin-bottom: 50px;" />
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 50px;" />
+<img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 50px;" />
     </div>
   </a>
 </p>
